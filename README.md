@@ -1,6 +1,11 @@
 # MatrixBarGraphWorkshop
-Included here is the code used for the Matrix Bar Graph Workshop to make a DIY LED matrix
+Included:
+Code used to make a DIY LED matrix
+Code to use the Hybrid Lab Number Display
+Code to use a multiplexing 32A908M
 ![LEDMatrixFront](LEDMatrixFront.jpg)
 ![LEDMatrixBack](LEDMatrixBack.jpg)
 ![NumberLED](numberLED.jpg)
+![MultiplexLED](MultiplexLED.jpg)
+
 
