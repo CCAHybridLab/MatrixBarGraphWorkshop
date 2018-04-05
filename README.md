@@ -6,6 +6,6 @@ Code to use a multiplexing 32A908M
 ![LEDMatrixFront](LEDMatrixFront.jpg)
 ![LEDMatrixBack](LEDMatrixBack.jpg)
 ![NumberLED](numberLED.jpg)
-![MultiplexLED](MultiplexLED.jpg)
+![MultiplexingLED](MultiplexLED.jpg)
 
 
