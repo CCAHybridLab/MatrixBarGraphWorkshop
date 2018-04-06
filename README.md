@@ -18,10 +18,11 @@ https://www.youtube.com/watch?v=RWBCsXjZe78
 code: http://www.himix.lt/arduino/arduino-and-matrix-number-bar-displays/
 
 
-![BarImgPot](BarImgPot.jpg)
+
 ![LEDMatrixFront](LEDMatrixFront.jpg)
 ![LEDMatrixBack](LEDMatrixBack.jpg)
 ![NumberLED](numberLED.jpg)
 ![MultiplexingLED](MultiplexingLED.jpg)
+![BarImgPot](BarImgPot.jpg)
 
 
