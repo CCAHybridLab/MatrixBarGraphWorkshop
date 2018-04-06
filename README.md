@@ -30,5 +30,6 @@ Adafruit_DotStar
 ![NumberLED](numberLED.jpg)
 ![MultiplexingLED](MultiplexingLED.jpg)
 ![BarImgPot](BarImgPot.jpg)
+![NeoMatrix](NeoMatrix.jpg)
 
 
