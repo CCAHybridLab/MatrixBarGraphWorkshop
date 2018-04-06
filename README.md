@@ -17,6 +17,12 @@ Arduino and Matrix Display, Number Display, Bar Graph Display
 https://www.youtube.com/watch?v=RWBCsXjZe78
 code: http://www.himix.lt/arduino/arduino-and-matrix-number-bar-displays/
 
+-Code for a NeoPixel Matrix (not written in the Hybrid Lab) Must also install the following libraries, the SPI.h is included in this repository for convenience. 
+SPI
+Adafruit_GFX
+Adafruit_DotStarMatrix
+Adafruit_DotStar
+
 
 
 ![LEDMatrixFront](LEDMatrixFront.jpg)
