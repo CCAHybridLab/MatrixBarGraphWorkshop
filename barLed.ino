@@ -6,12 +6,12 @@ int pre_map = 0;
 void setup() {
   Serial.begin(9600);
   // initialize digital pin LED_BUILTIN as an output.
-  pinMode(7, OUTPUT);
+  pinMode(7, OUTPUT);//turn on pins
   pinMode(8, OUTPUT);
   pinMode(11, OUTPUT);
   pinMode(12, OUTPUT);
 
-  digitalWrite(7, LOW);
+  digitalWrite(7, LOW);//set to off for start
   digitalWrite(8, LOW);
   digitalWrite(11, LOW);
   digitalWrite(12, LOW);
@@ -20,7 +20,7 @@ void setup() {
 
 void loop() {
   int sensorValue = analogRead(A0);
-  int mapValue = map(sensorValue,0,1023,0,5);
+  int mapValue = map(sensorValue,0,1023,0,5);//maps pot value to a value one more than number of LEDs in the Bar
   delay(100);
   if (pre_map < mapValue) {
     Direction = true;
