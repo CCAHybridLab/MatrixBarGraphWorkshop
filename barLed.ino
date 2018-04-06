@@ -1,6 +1,5 @@
 
 
-// the setup function runs once when you press reset or power the board
 boolean Direction = true;
 int pre_map = 0;
 
@@ -18,7 +17,7 @@ void setup() {
   digitalWrite(12, LOW);
 }
 
-// the loop function runs over and over again forever
+
 void loop() {
   int sensorValue = analogRead(A0);
   int mapValue = map(sensorValue,0,1023,0,5);
@@ -50,22 +49,6 @@ void loop() {
     digitalWrite(12, LOW);
     }
 
-//  if (sensorValue > 0 && sensorValue <= 255 && Direction == true) {
-//    digitalWrite(7, HIGH);
-//  } else if (sensorValue > 255 && sensorValue <= 510 && Direction == true) {
-//    digitalWrite(8, HIGH);
-//  } else if (sensorValue > 510 && sensorValue <= 765 && Direction == true) {
-//    digitalWrite(11, HIGH);
-//  } else if (sensorValue > 765 && sensorValue <= 1023 && Direction == true) {
-//    digitalWrite(12, HIGH);
-//  } else if (sensorValue > 0 && sensorValue <= 255 && Direction == false) {
-//    digitalWrite(7, LOW);
-//  }else if (sensorValue > 255 && sensorValue <= 510 && Direction == false) {
-//    digitalWrite(8, LOW);
-//  } else if (sensorValue > 510 && sensorValue <= 765 && Direction == false) {
-//    digitalWrite(11, LOW);
-//  } else if (sensorValue > 765 && sensorValue <= 1023 && Direction == false) {
-//    digitalWrite(12, LOW);
-//  }
+
 
 }
