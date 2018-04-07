@@ -1,6 +1,6 @@
 # MatrixBarGraphWorkshop
-Included is Code written or edited by Hybrid Lab Workstudy staff for the Matrix and Bar Graph Workshop 2018
-Contributors: Ziwei Liu, Dimitri Zampathas, Zoe McCloskey, Lei Xiang
+Included is code written or edited by Hybrid Lab Workstudy staff for the Matrix and Bar Graph Workshop 2018
+Contributors: Ziwei Liu, Dimitri Zampathas, Zoe McCloskey, Lei Xiang, Sabrina Nassar
 
 -Code used to make a DIY LED matrix 
 Using 8 x 8 leds in a protoboard
@@ -8,7 +8,7 @@ Using 8 x 8 leds in a protoboard
 -Code to use the Hybrid Lab Number Display
 Using a 10 pin number display (2 are ground) in the lab
 
--Code to use a multiplexing 
+-Code to use a Multiplexing 
 Using the 32A908M in the lab and 3 LEDs
 
 -Code to make a BarGraphDisplay 
