@@ -31,7 +31,7 @@ int startpoint =2;//if you would like to remove the dot change this number to 3 
   // -       -
   //  ---4--      .0
 
-//PIN NUMBERS test the number with a multimeter then connect the coressponding light to the follwing pins on the Arduino.
+//PIN NUMBERS test the number with a multimeter then connect the corresponding light to the following pins on the Arduino.
 //    ---6---
   // -       -
   // 10      5
